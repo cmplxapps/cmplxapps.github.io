@@ -1,0 +1,1 @@
+Your python script read this text file!
