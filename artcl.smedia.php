@@ -26,6 +26,7 @@
 							Twitter (@___jjmx___)</a></p>
 				</section>
 			</article>
+			<?php ?>
 		</main>
 	</body>
 </html>
