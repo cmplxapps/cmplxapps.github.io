@@ -25,8 +25,8 @@
 						<a href="https://twitter.com/___jjmx___" target="_blank">
 							Twitter (@___jjmx___)</a></p>
 				</section>
+				<?php ?>
 			</article>
-			<?php ?>
 		</main>
 	</body>
 </html>
